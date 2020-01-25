@@ -38,5 +38,5 @@
 
 ## 最后
 
-代码修改自[guoday的baseline](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline) ，预训练bert采用[哈工大RoBERTa-wwm-ext-large](https://github.com/ymcui/Chinese-BERT-wwm)，十分感谢。
+代码修改自[guoday的baseline](https://github.com/guoday/CCF-BDCI-Sentiment-Analysis-Baseline) ，预训练bert模型采用[哈工大的RoBERTa-wwm-ext-large](https://github.com/ymcui/Chinese-BERT-wwm)和[brightmart的Roberta_zh](https://github.com/brightmart/roberta_zh)，十分感谢。
 
